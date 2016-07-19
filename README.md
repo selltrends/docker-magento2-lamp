@@ -1,9 +1,9 @@
 # Docker Lamp for Magento 2
 
 ## Description
-**Based on docker php:5.6.23-apache
+**Based on docker php:5.6.23-apache**
 
-## Useage **
+## Useage
 Some basic Git commands are:
 ```
 git status
