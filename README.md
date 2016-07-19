@@ -14,4 +14,6 @@ git commit
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+
+**Sources**
 > php:5.6.23-apache
